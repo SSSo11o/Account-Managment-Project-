@@ -1,0 +1,44 @@
+ERROR: 2024/10/15 08:01:51 users.go:38: [repository.GetUserByID] cannot get user by id. Error is: record not found
+ERROR: 2024/10/15 08:53:36 users.go:38: [repository.GetUserByID] cannot get user by id. Error is: record not found
+ERROR: 2024/10/15 08:57:11 users.go:38: [repository.GetUserByID] cannot get user by id. Error is: record not found
+ERROR: 2024/10/15 09:26:29 outcome.go:52: [repository.CreateOutcome] cannot create outcome. Error is: ОШИБКА: INSERT или UPDATE в таблице "outcomes" нарушает ограничение внешнего ключа "fk_outcomes_category" (SQLSTATE 23503)
+ERROR: 2024/10/15 09:27:28 outcome.go:52: [repository.CreateOutcome] cannot create outcome. Error is: ОШИБКА: INSERT или UPDATE в таблице "outcomes" нарушает ограничение внешнего ключа "fk_outcomes_category" (SQLSTATE 23503)
+ERROR: 2024/10/15 09:47:28 outcome.go:52: [repository.CreateOutcome] cannot create outcome. Error is: ОШИБКА: INSERT или UPDATE в таблице "outcomes" нарушает ограничение внешнего ключа "fk_outcomes_category" (SQLSTATE 23503)
+ERROR: 2024/10/15 09:48:06 outcome.go:52: [repository.CreateOutcome] cannot create outcome. Error is: ОШИБКА: INSERT или UPDATE в таблице "outcomes" нарушает ограничение внешнего ключа "fk_outcomes_category" (SQLSTATE 23503)
+ERROR: 2024/10/15 09:48:57 outcome.go:52: [repository.CreateOutcome] cannot create outcome. Error is: ОШИБКА: INSERT или UPDATE в таблице "outcomes" нарушает ограничение внешнего ключа "fk_outcomes_category" (SQLSTATE 23503)
+ERROR: 2024/10/15 09:53:21 income.go:32: [repository.GetIncomeByID] cannot get income by id. Error is: record not found
+ERROR: 2024/10/15 09:53:59 outcome.go:52: [repository.CreateOutcome] cannot create outcome. Error is: ОШИБКА: INSERT или UPDATE в таблице "outcomes" нарушает ограничение внешнего ключа "fk_outcomes_category" (SQLSTATE 23503)
+ERROR: 2024/10/15 09:54:05 outcome.go:52: [repository.CreateOutcome] cannot create outcome. Error is: ОШИБКА: INSERT или UPDATE в таблице "outcomes" нарушает ограничение внешнего ключа "fk_outcomes_category" (SQLSTATE 23503)
+ERROR: 2024/10/15 10:31:08 users.go:38: [repository.GetUserByID] cannot get user by id. Error is: record not found
+ERROR: 2024/10/15 10:31:49 outcome.go:52: [repository.CreateOutcome] cannot create outcome. Error is: ОШИБКА: INSERT или UPDATE в таблице "outcomes" нарушает ограничение внешнего ключа "fk_outcomes_category" (SQLSTATE 23503)
+ERROR: 2024/10/15 21:47:02 users.go:38: [repository.GetUserByID] cannot get user by id. Error is: record not found
+ERROR: 2024/10/15 21:52:42 income.go:32: [repository.GetIncomeByID] cannot get income by id. Error is: record not found
+ERROR: 2024/10/15 21:53:01 income.go:32: [repository.GetIncomeByID] cannot get income by id. Error is: record not found
+ERROR: 2024/10/15 21:53:06 income.go:32: [repository.GetIncomeByID] cannot get income by id. Error is: record not found
+ERROR: 2024/10/15 21:53:11 income.go:32: [repository.GetIncomeByID] cannot get income by id. Error is: record not found
+ERROR: 2024/10/15 22:05:01 users.go:38: [repository.GetUserByID] cannot get user by id. Error is: record not found
+ERROR: 2024/10/16 08:42:38 users.go:38: [repository.GetUserByID] cannot get user by id. Error is: record not found
+ERROR: 2024/10/16 18:34:00 users.go:38: [repository.GetUserByID] cannot get user by id. Error is: record not found
+ERROR: 2024/10/16 18:42:15 outcome.go:52: [repository.CreateOutcome] cannot create outcome. Error is: ОШИБКА: INSERT или UPDATE в таблице "outcomes" нарушает ограничение внешнего ключа "fk_outcomes_category" (SQLSTATE 23503)
+ERROR: 2024/10/16 18:42:41 outcome.go:52: [repository.CreateOutcome] cannot create outcome. Error is: ОШИБКА: INSERT или UPDATE в таблице "outcomes" нарушает ограничение внешнего ключа "fk_outcomes_category" (SQLSTATE 23503)
+ERROR: 2024/10/16 19:53:32 users.go:38: [repository.GetUserByID] cannot get user by id. Error is: record not found
+ERROR: 2024/10/18 00:02:32 jwt.go:45: [service.ParseToken] cannot parse token. Error is: token contains an invalid number of segments
+ERROR: 2024/10/18 00:17:03 outcome.go:43: [repository.GetOutcomeByID] cannot get outcome by id. Error is: record not found
+ERROR: 2024/10/18 00:17:33 outcome.go:43: [repository.GetOutcomeByID] cannot get outcome by id. Error is: record not found
+ERROR: 2024/10/18 00:17:43 outcome.go:43: [repository.GetOutcomeByID] cannot get outcome by id. Error is: record not found
+ERROR: 2024/10/18 00:17:45 outcome.go:43: [repository.GetOutcomeByID] cannot get outcome by id. Error is: record not found
+ERROR: 2024/10/18 00:18:21 outcome.go:43: [repository.GetOutcomeByID] cannot get outcome by id. Error is: record not found
+ERROR: 2024/10/18 00:22:39 outcome.go:43: [repository.GetOutcomeByID] cannot get outcome by id. Error is: record not found
+ERROR: 2024/10/18 00:22:48 outcome.go:43: [repository.GetOutcomeByID] cannot get outcome by id. Error is: record not found
+ERROR: 2024/10/18 00:22:50 outcome.go:43: [repository.GetOutcomeByID] cannot get outcome by id. Error is: record not found
+ERROR: 2024/10/18 00:22:51 outcome.go:43: [repository.GetOutcomeByID] cannot get outcome by id. Error is: record not found
+ERROR: 2024/10/18 00:23:06 outcome.go:43: [repository.GetOutcomeByID] cannot get outcome by id. Error is: record not found
+ERROR: 2024/10/18 00:34:39 users.go:38: [repository.GetUserByID] cannot get user by id. Error is: record not found
+ERROR: 2024/10/18 16:22:21 income.go:33: [repository.GetIncomeByID] cannot get income by id. Error is: record not found
+ERROR: 2024/10/18 16:23:00 income.go:33: [repository.GetIncomeByID] cannot get income by id. Error is: record not found
+ERROR: 2024/10/18 16:23:07 income.go:33: [repository.GetIncomeByID] cannot get income by id. Error is: record not found
+ERROR: 2024/10/18 16:24:22 income.go:33: [repository.GetIncomeByID] cannot get income by id. Error is: record not found
+ERROR: 2024/10/18 16:24:28 income.go:33: [repository.GetIncomeByID] cannot get income by id. Error is: record not found
+ERROR: 2024/10/18 16:31:37 outcome.go:43: [repository.GetOutcomeByID] cannot get outcome by id. Error is: record not found
+ERROR: 2024/10/18 16:34:49 users.go:38: [repository.GetUserByID] cannot get user by id. Error is: record not found
+ERROR: 2024/10/18 17:54:15 users.go:38: [repository.GetUserByID] cannot get user by id. Error is: record not found
